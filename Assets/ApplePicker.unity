@@ -318,7 +318,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 83942896637969022, guid: 9ce2bd626e75ab146a6b667ee394ce9f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 10
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 83942896637969022, guid: 9ce2bd626e75ab146a6b667ee394ce9f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -355,6 +355,18 @@ PrefabInstance:
     - target: {fileID: 83942896637969023, guid: 9ce2bd626e75ab146a6b667ee394ce9f, type: 3}
       propertyPath: m_Name
       value: AppleTree
+      objectReference: {fileID: 0}
+    - target: {fileID: 5720298840344137461, guid: 9ce2bd626e75ab146a6b667ee394ce9f, type: 3}
+      propertyPath: speed
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5720298840344137461, guid: 9ce2bd626e75ab146a6b667ee394ce9f, type: 3}
+      propertyPath: leftAndRightEdge
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 5720298840344137461, guid: 9ce2bd626e75ab146a6b667ee394ce9f, type: 3}
+      propertyPath: chanceToChangeDirection
+      value: 0.02
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ce2bd626e75ab146a6b667ee394ce9f, type: 3}
