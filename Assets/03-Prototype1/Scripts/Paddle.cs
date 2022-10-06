@@ -19,6 +19,6 @@ public class Paddle : MonoBehaviour{
         {
             movement = Input.GetAxisRaw("Vertical2");
         }
-        rb.velocity = new Vector2(rb.velocity.x, movement*speed);
+        rb.velocity = new Vector2(rb.velocity.x, movement*speed); 
     }
 }
