@@ -17,7 +17,6 @@ public class PlayerController : MonoBehaviour
     {
         m_Rigidbody = GetComponent<Rigidbody>();
         m_Count = 0;
-        winText.text = "";
     }
 
     void FixedUpdate() {
