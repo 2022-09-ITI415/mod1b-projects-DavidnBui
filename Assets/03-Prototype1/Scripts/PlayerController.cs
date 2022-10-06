@@ -20,6 +20,7 @@ public class PlayerController : MonoBehaviour
         m_Count = 0;
 
         SetCountText();
+        winText.text = "";
     }
 
     void FixedUpdate() {
@@ -45,6 +46,10 @@ public class PlayerController : MonoBehaviour
     void SetCountText()
     {
         countText.text = "Count: " + m_Count.ToString();
+        if(m_Count >= 11)
+        {
+            winText.text= "You Win!";
+        }
     }
 
 }
