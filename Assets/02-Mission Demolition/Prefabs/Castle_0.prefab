@@ -103,7 +103,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Slab
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5105629169303770025, guid: 08b9816e7b971aa4899c416533ab9b51, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 08b9816e7b971aa4899c416533ab9b51, type: 3}
 --- !u!4 &4561553818506016329 stripped
 Transform:
@@ -165,7 +166,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Slab (3)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5105629169303770025, guid: 08b9816e7b971aa4899c416533ab9b51, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 08b9816e7b971aa4899c416533ab9b51, type: 3}
 --- !u!4 &4561553818479386062 stripped
 Transform:
@@ -227,7 +229,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Slab (5)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5105629169303770025, guid: 08b9816e7b971aa4899c416533ab9b51, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 08b9816e7b971aa4899c416533ab9b51, type: 3}
 --- !u!4 &4561553818228601292 stripped
 Transform:
@@ -289,7 +292,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5105629169303770025, guid: a959d98b5b02f2b459c93f40c9b59f51, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: a959d98b5b02f2b459c93f40c9b59f51, type: 3}
 --- !u!4 &4561553818159751441 stripped
 Transform:
@@ -351,7 +355,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall (2)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5105629169303770025, guid: a959d98b5b02f2b459c93f40c9b59f51, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: a959d98b5b02f2b459c93f40c9b59f51, type: 3}
 --- !u!4 &4561553819038264194 stripped
 Transform:
@@ -413,7 +418,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall (7)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5105629169303770025, guid: a959d98b5b02f2b459c93f40c9b59f51, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: a959d98b5b02f2b459c93f40c9b59f51, type: 3}
 --- !u!4 &4561553819030724412 stripped
 Transform:
@@ -475,7 +481,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall (3)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5105629169303770025, guid: a959d98b5b02f2b459c93f40c9b59f51, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: a959d98b5b02f2b459c93f40c9b59f51, type: 3}
 --- !u!4 &4561553819023123949 stripped
 Transform:
@@ -537,7 +544,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall (5)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5105629169303770025, guid: a959d98b5b02f2b459c93f40c9b59f51, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: a959d98b5b02f2b459c93f40c9b59f51, type: 3}
 --- !u!4 &4561553818963690427 stripped
 Transform:
@@ -599,7 +607,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Slab (1)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5105629169303770025, guid: 08b9816e7b971aa4899c416533ab9b51, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 08b9816e7b971aa4899c416533ab9b51, type: 3}
 --- !u!4 &4561553818785138772 stripped
 Transform:
@@ -661,7 +670,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall (1)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5105629169303770025, guid: a959d98b5b02f2b459c93f40c9b59f51, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: a959d98b5b02f2b459c93f40c9b59f51, type: 3}
 --- !u!4 &4561553819168293728 stripped
 Transform:
@@ -723,7 +733,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall (9)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5105629169303770025, guid: a959d98b5b02f2b459c93f40c9b59f51, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: a959d98b5b02f2b459c93f40c9b59f51, type: 3}
 --- !u!4 &4561553820100706077 stripped
 Transform:
@@ -785,7 +796,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Slab (4)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5105629169303770025, guid: 08b9816e7b971aa4899c416533ab9b51, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 08b9816e7b971aa4899c416533ab9b51, type: 3}
 --- !u!4 &4561553820018969791 stripped
 Transform:
@@ -847,7 +859,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Slab (2)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5105629169303770025, guid: 08b9816e7b971aa4899c416533ab9b51, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 08b9816e7b971aa4899c416533ab9b51, type: 3}
 --- !u!4 &4561553820003720858 stripped
 Transform:
@@ -909,7 +922,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall (8)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5105629169303770025, guid: a959d98b5b02f2b459c93f40c9b59f51, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: a959d98b5b02f2b459c93f40c9b59f51, type: 3}
 --- !u!4 &4561553819797411868 stripped
 Transform:
@@ -971,7 +985,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall (6)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5105629169303770025, guid: a959d98b5b02f2b459c93f40c9b59f51, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: a959d98b5b02f2b459c93f40c9b59f51, type: 3}
 --- !u!4 &4561553819764177166 stripped
 Transform:
@@ -1033,7 +1048,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall (4)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5105629169303770025, guid: a959d98b5b02f2b459c93f40c9b59f51, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: a959d98b5b02f2b459c93f40c9b59f51, type: 3}
 --- !u!4 &4561553819638598968 stripped
 Transform:
