@@ -20,7 +20,7 @@ public class PlayerController : MonoBehaviour
         m_Count = 0;
 
         SetCountText();
-        winText.text = "";
+        //winText.text = "";
     }
 
     void FixedUpdate() {
