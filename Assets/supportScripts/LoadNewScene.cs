@@ -8,17 +8,17 @@ public class LoadNewScene : MonoBehaviour
 
     public void LoadScene1()
     {
-        SceneManager.LoadScene("Main-ApplePicker");
+        SceneManager.LoadScene("ApplePicker");
     }
 
     public void LoadScene2()
     {
-        SceneManager.LoadScene("Main-MissionDemolition");
+        SceneManager.LoadScene("Mission Demolition");
     }
 
     public void LoadScene3()
     {
-        SceneManager.LoadScene("Main-Prototype 1");
+        SceneManager.LoadScene("Prototype1");
     }
 
     
